@@ -19,7 +19,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background-image:url(https://swcs.ml/tu.php);
+  background-image:url(https://longke233.github.io/tu.php);
   background-size: cover;
   left: 0;
   right: 0;
